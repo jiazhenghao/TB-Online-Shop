@@ -9,7 +9,6 @@ require('./include/init.php');
 
 //include(ROOT . 'view/front/address.html');
 include(ROOT . 'view/front/jiesuan.html');
-//include(ROOT . 'view/front/order.html');
-//include(ROOT . 'view/front/tijiao.html');
+
 
 ?>
